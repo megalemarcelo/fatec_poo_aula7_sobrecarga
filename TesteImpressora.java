@@ -1,6 +1,6 @@
 // Marcelo Megale
 // Sobrecarga de Métodos
-// Exercício 1
+// Exercício 2
 
 public class TesteImpressora {
     public static void main(String[] args) {
